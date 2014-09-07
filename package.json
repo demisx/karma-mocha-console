@@ -1,0 +1,15 @@
+{
+  "name": "slideviewer",
+  "description": "Online presentation slide viewer",
+  "repository": "git@code.colddata.com:amgen-apps/slideviewer.git",
+  "devDependencies": {
+    "coffee-script": "~1.7.1",
+    "gulp": "^3.8.7",
+    "karma": "~0.12.1",
+    "karma-coffee-preprocessor": "^0.2.1",
+    "karma-mocha": "^0.1.9",
+    "karma-phantomjs-launcher": "~0.1",
+    "mocha": "^1.21.4",
+    "phantomjs": "~1.9"
+  }
+}
